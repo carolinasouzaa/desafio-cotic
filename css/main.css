@@ -1,0 +1,7 @@
+.main-bg{
+    background-image: url('../assets/The-Boys-segunda-temporada-scaled.jpg');
+    background-size: cover;
+}
+.transparent{
+    opacity: 0.5;
+}
